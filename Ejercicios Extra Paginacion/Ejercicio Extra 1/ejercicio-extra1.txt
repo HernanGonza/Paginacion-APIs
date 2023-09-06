@@ -1,0 +1,1 @@
+Utiliza la API pública "https://jsonplaceholder.typicode.com/photos" para obtener una lista de fotos. Implementa la paginación para mostrar 20 fotos por página y agrega botones de "Siguiente" y "Anterior" para permitir la navegación entre las páginas.

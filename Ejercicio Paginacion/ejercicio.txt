@@ -1,0 +1,1 @@
+Realiza una solicitud GET a la API pública "https://api.punkapi.com/v2/beers" para obtener una lista completa de todas las cervezas disponibles. Implementa la paginación para mostrar solo 10 cervezas por página y permite a los usuarios navegar entre las diferentes páginas.

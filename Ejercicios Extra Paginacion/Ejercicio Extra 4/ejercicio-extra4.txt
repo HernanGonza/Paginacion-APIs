@@ -1,0 +1,1 @@
+Realiza una solicitud GET a la API pública "https://api.spacexdata.com/v4/launches" para obtener una lista de lanzamientos de SpaceX. Divide la lista en páginas de 3 lanzamientos por página y muestra información relevante sobre cada lanzamiento junto con enlaces de paginación.

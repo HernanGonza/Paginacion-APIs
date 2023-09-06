@@ -1,0 +1,1 @@
+Realiza una solicitud GET a la API pública "https://api.thedogapi.com/v1/breeds" para obtener una lista completa de todas las razas de perros. Divide la lista en páginas de 5 razas por página y muestra los nombres de las razas junto con enlaces de paginación

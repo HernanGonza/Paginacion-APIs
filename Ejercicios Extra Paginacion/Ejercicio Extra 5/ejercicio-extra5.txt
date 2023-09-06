@@ -1,0 +1,1 @@
+Utiliza la API pública "https://jsonplaceholder.typicode.com/posts" para obtener una lista de publicaciones. Implementa la paginación para mostrar 12 publicaciones por página y permite a los usuarios navegar entre las diferentes páginas utilizando botones de "Siguiente" y "Anterior".

@@ -1,0 +1,1 @@
+Realiza una solicitud GET a la API pública "https://api.thecatapi.com/v1/images/search" para obtener imágenes aleatorias de gatos. Divide las imágenes en páginas de 6 imágenes por página y muestra una galería de imágenes junto con enlaces de paginación.

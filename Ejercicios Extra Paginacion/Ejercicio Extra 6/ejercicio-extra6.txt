@@ -1,0 +1,1 @@
+Realiza una solicitud GET a la API pública "https://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=New%20York&days=5" para obtener el pronóstico del tiempo para los próximos 5 días en Nueva York. Divide el pronóstico en páginas diarias y muestra los detalles para cada día junto con enlaces de paginación.

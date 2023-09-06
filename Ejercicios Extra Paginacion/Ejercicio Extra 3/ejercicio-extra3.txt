@@ -1,0 +1,1 @@
+Utiliza la API pública "https://api.openbrewerydb.org/breweries" para obtener una lista de cervecerías. Implementa la paginación para mostrar 15 cervecerías por página y permite a los usuarios navegar entre las diferentes páginas utilizando botones de "Siguiente" y "Anterior".

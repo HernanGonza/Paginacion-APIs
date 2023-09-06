@@ -1,0 +1,1 @@
+Utiliza la API pública "https://api.publicapis.org/entries" para obtener una lista de APIs públicas. Divide la lista en páginas de 25 APIs por página y muestra información relevante sobre cada API junto con enlaces de paginación.

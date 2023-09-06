@@ -1,0 +1,1 @@
+Utiliza la API pública "https://api.pokemontcg.io/v2/cards" para obtener una lista de tarjetas de Pokémon. Implementa la paginación para mostrar 8 tarjetas por página y permite a los usuarios navegar entre las diferentes páginas utilizando botones de "Siguiente" y "Anterior".
