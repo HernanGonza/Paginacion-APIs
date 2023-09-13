@@ -37,7 +37,7 @@ fetch('https://api.weatherapi.com/v1/forecast.json?key=6ee8d07c5b04493fb74113918
                     lista.style.marginTop = '100px';
                     lista.style.marginBottom = '50px';
                     lista.style.width = '300px';
-                    
+
                 }
             }
 
